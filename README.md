@@ -3,7 +3,6 @@
 This script is meant to create Windows11 bootable USB from a MacOS. Tested using MacOS Ventura on MacBook Pro 15" (Late 2017) - Intel CPU
 
 > Dependencies:
-> - make
 > - [Homebrew](https://brew.sh/)
 > - [wimlib](https://github.com/chris1111/Wimlib-Imagex-Package)
 > - an usb drive with at least 8 GB
